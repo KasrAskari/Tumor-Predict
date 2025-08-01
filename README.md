@@ -2,7 +2,7 @@
 
 A simple yet powerful web application that predicts the likelihood of a tumor being malignant or benign using a logistic regression model trained on selected features from a breast cancer dataset.
 
-## 🚀 Overview
+## 💻 Overview
 
 This is a Streamlit application where you can input tumor characteristics such as radius, perimeter, area, compactness and concavity(Consider reading here for more information) to obtain a probability score on whether the tumor is malignant. The model is trained with logistic regression with hyper-parameter tuning on GridSearchCV.
 
@@ -67,5 +67,6 @@ streamlit run tumor-app.py
 ```
 
 ## 📜 License
+
 
 This project is licensed under the MIT License.
