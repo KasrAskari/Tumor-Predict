@@ -4,7 +4,7 @@ A simple yet powerful web application that predicts the likelihood of a tumor be
 
 ## 💻 Overview
 
-This is a Streamlit application where you can input tumor characteristics such as radius, perimeter, area, compactness and concavity(Consider reading here for more information) to obtain a probability score on whether the tumor is malignant. The model is trained with logistic regression with hyper-parameter tuning on GridSearchCV.
+This is a Streamlit application where you can input tumor characteristics such as radius, perimeter, area, compactness and concavity to obtain a probability score on whether the tumor is malignant. The model is trained with logistic regression with hyper-parameter tuning on GridSearchCV.
 
 ## 🔍 Features
 
@@ -70,3 +70,4 @@ streamlit run tumor-app.py
 
 
 This project is licensed under the MIT License.
+
